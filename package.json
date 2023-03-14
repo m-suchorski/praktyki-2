@@ -1,0 +1,16 @@
+{
+  "name": "praktyki-2",
+  "version": "1.0.0",
+  "description": "Example of how to setup a project using Yarn",
+  "main": "index.js",
+  "repository": "git@github.com:m-suchorski/praktyki-2.git",
+  "author": "Marcin Suchorski <marcin.suchorski07@gmail.com>",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "axios": "^1.3.4"
+  },
+  "scripts": {
+    "start": "node src/index.js"
+  }
+}
