@@ -1,0 +1,2 @@
+# We don't want to commit node_modules directory, everyone can use `yarn` to install packages locally themselves
+node_modules
