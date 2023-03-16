@@ -1,6 +1,3 @@
-const { fetchApi } = require('./fetch');
-
-// fetchApi()
-// fetch.fetchApi()
-
-fetchApi()
+const { fetch, apiRoute } = require("./fetch");
+console.log(apiRoute);
+fetch();
